@@ -1,0 +1,5 @@
+assignment means evaluate rhs of the = and take the resulting value and associates it with the name on the lhs
+
+example:
+
+my_num = my_num +2
